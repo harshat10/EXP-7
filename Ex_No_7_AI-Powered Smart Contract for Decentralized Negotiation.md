@@ -1,6 +1,8 @@
+### Name : HARSHAT G 
+### RegNo.: 212224040106
 # Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
 # Aim:
-# To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
+To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
 # Algorithm:
 ## Step 1: AI-Powered Dynamic Pricing
@@ -113,9 +115,11 @@ Mimics real-world price negotiations using dynamic on-chain pricing.
 
 Can be extended to AI oracles for real-time market data.
 
+<img width="1919" height="1051" alt="image" src="https://github.com/user-attachments/assets/e0a91ef5-bb20-4072-bd7b-763334034b28" />
+
 
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # RESULT:
-
+Thus, a smart contract that integrates AI logic for automated negotiation in decentralized commerce is deployed and output verified.
 
